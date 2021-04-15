@@ -5,10 +5,30 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  Gatsby
 </h1>
 
-Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+
+## LAB - Server Side React - Gatsby Portofolio
+
+
+- React is great, but it’s a client-side application, which has a negative impact on SEO – only an empty div is actually ever sent to the browser, and your React app fills in the content on the fly.
+
+- For content driven sites, such as a Blog or a news site, where its important to have search engines like Google and Bing properly index your site, you must render full HTML on the server side and send all of that content to the browser.
+
+Create a 2 page interactive with the Gatsby framework and deploy it to Netlify
+
+- Use the same template/layout for both pages
+- Home Page (/)
+- Portfolio Page Page (/portfolio)
+
+
+- ``` npm run build ```
+
+- ``` npm run develop ```
+
+
+- Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
 
